@@ -16,8 +16,6 @@ Fairness & anomaly detection
 
 This architecture is ideal for research, academic demo projects, and as a scalable base for deploying with real healthcare datasets (e.g., BraTS, TCGA, EHR systems).
 
-Sample Output
-<table> <tr> <td>💡 SHAP Summary Plot</td> <td>🔍 MRI-like Synthetic Image</td> </tr> <tr> <td><img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/shap_summary.png" width="400"/></td> <td><img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/sample_mri.png" width="200"/></td> </tr> </table>
 AI Model Pipeline
 1. CNN for Image Feature Extraction
 Functional API model with Conv → MaxPooling → Dense (penultimate feature layer)
