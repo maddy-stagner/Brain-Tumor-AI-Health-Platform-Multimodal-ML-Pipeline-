@@ -1,4 +1,4 @@
-This project implements an AI-powered health platform for brain tumor detection, using synthetic data to simulate a real-world healthcare AI pipeline. It integrates image-based features (e.g., MRI scans) and tabular clinical data (e.g., patient symptoms, vitals) to build a fused machine learning model.
+This project implements an AI-powered health platform for brain tumor detection, using  data to simulate a real-world healthcare AI pipeline. It integrates image-based features (e.g., MRI scans) and tabular clinical data (e.g., patient symptoms, vitals) to build a fused machine learning model.
 
 It showcases:
 
